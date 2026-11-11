@@ -163,7 +163,7 @@ Superstore-PowerBI-Executive-Dashboard/
 
 ### Executive Overview
 
-![Executive Overview](Images/1Executive-Overview.png)
+![Executive Overview](Images/Executive-Overview.png)
 
 ### Customer & Geographic Analysis
 
